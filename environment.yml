@@ -1,0 +1,12 @@
+name: drugdev
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - rdkit
+  - pandas
+  - numpy
+  - scikit-learn
+  - matplotlib
+  - seaborn
+  - jupyter
